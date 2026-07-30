@@ -75,21 +75,3 @@ Este proyecto es de uso académico. Los datos son propiedad del **INEGI**.
 
 ---
 
-## ⭐ ¿Por qué este proyecto es relevante?
-
-| Criterio | Evaluación |
-| :--- | :--- |
-| **Complejidad técnica** | ⭐⭐⭐⭐⭐ (Tablas de vida, modelos matemáticos, Excel avanzado) |
-| **Datos reales** | ⭐⭐⭐⭐⭐ (Trabajo con microdatos del INEGI) |
-| **Aplicación práctica** | ⭐⭐⭐⭐⭐ (Implicaciones para seguros, pensiones, educación) |
-| **Comunicación** | ⭐⭐⭐⭐ (4 informes estructurados con gráficas e interpretaciones) |
-| **Portafolio profesional** | ⭐⭐⭐⭐⭐ (Ideal para actuaría, análisis de datos, políticas públicas) |
-
----
-
-## 📝 Notas Finales
-
-- **Radix utilizado en tablas de vida:** 100,000 habitantes
-- **Período de proyección:** 2010-2025 (mitad de año: 30 de junio)
-- **Método de corrección:** 1/16 para suavizado de datos
-- **Municipio analizado:** Tultitlán, Estado de México
